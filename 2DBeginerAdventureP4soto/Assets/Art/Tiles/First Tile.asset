@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: First Tile
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 0}
-  m_DefaultGameObject: {fileID: 0}
+  m_DefaultGameObject: {fileID: 6880197685901104683, guid: cc7a8d15dd21df84f9fb00fd820494bd,
+    type: 3}
   m_DefaultColliderType: 1
   m_TilingRules: []
